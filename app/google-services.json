@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "912115549676",
+    "firebase_url": "https://gonulluapp-cfc04.firebaseio.com",
+    "project_id": "gonulluapp-cfc04",
+    "storage_bucket": "gonulluapp-cfc04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912115549676:android:c37cc5f9fc644a384b2cc9",
+        "android_client_info": {
+          "package_name": "com.example.gonulluproje"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912115549676-km5aqo5ivs6nrtrmngfe7bj5c6p8f2et.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpPEAJpUBpSzDtlsrEYXqUjXzUrvexJuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912115549676-km5aqo5ivs6nrtrmngfe7bj5c6p8f2et.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
